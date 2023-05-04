@@ -31,7 +31,7 @@ function Carrinho() {
                             <div class="col-8 col-md-9 col-lg-7 col-xl-8 text-left align-self-center">
                                 <h4>
                                     <b><a href="#" class="text-decoration-none text-danger">
-                                    WHEY PROTEIN ISOLATE</a></b>
+                                   ISOLATE PERFOMANCE WHEY PROTEIN 2kg </a></b>
                                 </h4>
                                 <h5>
                                 Fornece 27g de Whey Protein Isolado por porção, obtido através do processo de filtragem por membranas.
@@ -45,7 +45,7 @@ function Carrinho() {
                                             <img src="plus-lg.svg"/>
                                         </i>
                                     </button>
-                                    <input type="text" class="form-control text-center border-dark" value="4"/>
+                                    <input type="text" class="form-control text-center border-dark" value="1"/>
                                     <button class="btn btn-outline-dark btn-sm" type="button">
                                         <i class="bi-caret-up" font-size="16px" line-height="16px" >
                                             <img src="dash.svg"/>
@@ -58,8 +58,8 @@ function Carrinho() {
                                     </button>
                                 </div>
                                 <div class="text-end mt-2">
-                                    <small class="text-secondary">Valor kg: R$ 369,90</small><br/>
-                                    <span class="text-dark">Valor Item: R$ 15,96</span>
+                                    <small class="text-secondary">De: R$ 400,00</small><br/>
+                                    <span class="text-dark">Por: R$ 369,90</span>
                                 </div>
                             </div>
                         </div>
@@ -78,7 +78,7 @@ function Carrinho() {
                                     WHEY BLEND 900g</a></b>
                                 </h4>
                                 <h5>
-                                    Abacate manteiga da melhor qualidade possível e muito fresco.
+                                Produto de alto valor biológico que pode ser utilizado para as mais diversas finalidades e objetivos.
                                 </h5>
                             </div>
                             <div
@@ -89,7 +89,7 @@ function Carrinho() {
                                             <img src="plus-lg.svg"/>
                                         </i>
                                     </button>
-                                    <input type="text" class="form-control text-center border-dark" value="4"/>
+                                    <input type="text" class="form-control text-center border-dark" value="1"/>
                                     <button class="btn btn-outline-dark btn-sm" type="button">
                                         <i class="bi-caret-up" >
                                             <img src="dash.svg"/>
@@ -102,8 +102,8 @@ function Carrinho() {
                                     </button>
                                 </div>
                                 <div class="text-end mt-2">
-                                    <small class="text-secondary">Valor kg: R$ 139,00</small><br/>
-                                    <span class="text-dark">Valor Item: R$139,00</span>
+                                    <small class="text-secondary">De: R$ 190,00</small><br/>
+                                    <span class="text-dark">Por: R$139,00</span>
                                 </div>
                             </div>
                         </div>
@@ -122,7 +122,7 @@ function Carrinho() {
                                     CREATINE TURBO</a></b>
                                 </h4>
                                 <h5>
-                                    Abacate manteiga da melhor qualidade possível e muito fresco.
+                                Apoia o ganho de massa e a conclusão dos treinos mantendo a qualidade de suas repetições.
                                 </h5>
                             </div>
                             <div
@@ -133,7 +133,7 @@ function Carrinho() {
                                         <img src="plus-lg.svg"/>
                                         </i>
                                     </button>
-                                    <input type="text" class="form-control text-center border-dark" value="4"/>
+                                    <input type="text" class="form-control text-center border-dark" value="1"/>
                                     <button class="btn btn-outline-dark btn-sm" type="button">
                                         <i class="bi-caret-up" >
                                           <img src="dash.svg"/>
@@ -146,8 +146,8 @@ function Carrinho() {
                                     </button>
                                 </div>
                                 <div class="text-end mt-2">
-                                    <small class="text-secondary">Valor kg: R$ 89,90</small><br/>
-                                    <span class="text-dark">Valor Item: R$ 15,96</span>
+                                    <small class="text-secondary">De: R$ 120,00</small><br/>
+                                    <span class="text-dark">Por: R$ 89,90</span>
                                 </div>
                             </div>
                         </div>
@@ -166,7 +166,7 @@ function Carrinho() {
                                     CREATINA HARDCORE</a></b>
                                 </h4>
                                 <h5>
-                                    Abacate manteiga da melhor qualidade possível e muito fresco.
+                                Ajuda a hidratar a musculatura enquanto você malha, promovendo o aumento, força e firmeza.
                                 </h5>
                             </div>
                             <div
@@ -177,7 +177,7 @@ function Carrinho() {
                                         <img src="plus-lg.svg"/>
                                         </i>
                                     </button>
-                                    <input type="text" class="form-control text-center border-dark" value="4"/>
+                                    <input type="text" class="form-control text-center border-dark" value="1"/>
                                     <button class="btn btn-outline-dark btn-sm" type="button">
                                         <i class="bi-caret-up" >
                                             <img src="dash.svg"/>
@@ -190,8 +190,8 @@ function Carrinho() {
                                     </button>
                                 </div>
                                 <div class="text-end mt-2">
-                                    <small class="text-secondary">Valor kg: R$ 174,99</small><br/>
-                                    <span class="text-dark">Valor Item: R$ 15,96</span>
+                                    <small class="text-secondary">De: R$ 200,00</small><br/>
+                                    <span class="text-dark">Por: R$ 174,99</span>
                                 </div>
                             </div>
                         </div>
@@ -200,7 +200,7 @@ function Carrinho() {
                     <li class="list-group-item py-3">
                         <div class="text-end">
                             <h4 class="text-dark mb-3">
-                                Valor Total: R$ 63,84
+                                Valor Total: R$ 773,79
                             </h4>
                             <a href="/index.html" class="btn btn-outline-success btn-lg">
                                 Continuar Comprando                            
