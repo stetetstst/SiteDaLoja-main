@@ -133,7 +133,7 @@ function App() {
         Desenvolvida para o maior estímulo de liberação do óxido nítrico, Isso aumenta o fluxo de sangue e nutrientes.
         </Card.Text>
         <h3>R$65,90</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto5' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -144,7 +144,7 @@ function App() {
         Taurus da FTW com l-taurina é um aminoácido livre que aumenta a resistência, possui ação antioxidante.
         </Card.Text>
         <h3>R$38,86</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto6' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -155,7 +155,7 @@ function App() {
         Não pode faltar na sua rotina para ajudar na performance e na recuperação muscular pós treino.
         </Card.Text>
         <h3>R$64,28</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto7' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -166,7 +166,7 @@ function App() {
         A Beta-Alanina da Max Titanium é um excelente suplemento para incluir em seu consumo, é importantíssimo.
         </Card.Text>
         <h3>R$95,39</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto8' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -177,7 +177,7 @@ function App() {
         12 unidades de recompensa deliciosa e nutritiva, veio para ser a recompensa oficial dos seus treinos.
         </Card.Text>
         <h3>R$166,79</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto9' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -188,7 +188,7 @@ function App() {
         A arginina funciona como um precursor de outros aminoácidos e proteínas, ela atua no ciclo da ureia.
         </Card.Text>
         <h3>R$58,25</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto10' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -199,7 +199,7 @@ function App() {
         é uma fonte de proteína que ajuda na formação dos músculos e ossos, se o seu objetivo é hipertrofia, ele auxilia. 
         </Card.Text>
         <h3>R$129,58</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto11' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -210,7 +210,7 @@ function App() {
         É um Whey Protein hidrolisado, concentrado e isolado. Possui 25g de proteína  de alto valor biológico.
         </Card.Text>
         <h3>R$194,58</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto12' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -221,7 +221,7 @@ function App() {
         É um dos melhores suplementos proteicos mais vendidos no mundo. É uma Whey Protein isolada...
         </Card.Text>
         <h3>R$344,45</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto13' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -232,7 +232,7 @@ function App() {
         É uma nova fórmula baseada em péptidos de soro de absorção rápida e isolados de soro de alta pureza.
         </Card.Text>
         <h3>R$294,53</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto14' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -243,7 +243,7 @@ function App() {
         É um suplemento proteico composto pela Proteína Concentrada do Soro de Leite (Whey Protein Concentrate).
         </Card.Text>
         <h3>R$175,41</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto15' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     <Card className="m-3"style={{ width: '18rem' }}>
@@ -254,7 +254,7 @@ function App() {
         Suplemento que é um poderoso antioxidante, atua contra os radicais livres e realiza a regulagem do sono. 
         </Card.Text>
         <h3>R$88,94</h3>
-        <Button href='/Carrinho' variant="primary">Comprar</Button>
+        <Button href='/Produto16' variant="primary">Comprar</Button>
       </Card.Body>
     </Card>
     </div>
